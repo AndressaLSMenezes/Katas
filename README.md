@@ -2,17 +2,7 @@
 
 ## Introdução
 
-Nesses katas, você deve utilizar o console.log() para exibir o resultado de cada kata.
-
-Antes de começar a desenvolver suas funções de resolução dos Katas, crie a função "showResults" seguindo os seguintes passos:
-
-1. Essa função deve receber um valor como parâmetro.
-2. Essa função deve mostrar no console o valor recebido
-3. Essa função deve ser chamada dentro de todas as outras funções.
-
-### Aviso: Nesse katas nós não vamos utilizar métodos de iteração de array (forEach, map, filter, reduce, sort...) e nem (math min, math max), vamos utilizar apenas estruturas de repetição como for.
-
-Suas funções devem utilizar return para **retornar** os resultados solicitados
+Nesse katas não utilizei métodos de iteração de array (forEach, map, filter, reduce, sort...) e nem (math min, math max), utilizei apenas estruturas de repetição como for.
 
 ## Tarefa
 
@@ -34,8 +24,3 @@ Suas funções devem utilizar return para **retornar** os resultados solicitados
 16. Kata 16 - Exibir a soma de todos os elementos de sampleArray.
 17. Kata 17 - Exibir o menor elemento de sampleArray.
 18. Kata 18 - Exibir o maior elemento de sampleArray.
-
-
-## Envio
-
-Faça o push do código para o seu repositório GitHub, altere a visibilidade do repositório para internal e implemente-o GitHub pages. No Canvas, por favor, envie sua url do GitHub Pages: (ex:https://nomerandomico.pages.github.io/) e envie o link do seurepositório nos comentários. Atenção, seu repositório deverá ser compartilhado apenas com a organização. (Internal)
